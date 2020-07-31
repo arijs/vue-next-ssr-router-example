@@ -1,0 +1,16 @@
+{
+  "name": "vue-next-ssr-router-example",
+  "version": "0.0.1",
+  "description": ".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Hengles <rhengles@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/server-renderer": "^3.0.0-rc.5",
+    "vue": "^3.0.0-rc.5",
+    "vue-router": "^4.0.0-beta.4"
+  }
+}
